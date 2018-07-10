@@ -1,20 +1,22 @@
 # Rest-Api-JAXRX-Hbn-Jersey-SuperMarket
 This Repository contains Restful API operations of Project SuperMarket using Jersey JAXRX, Hibernate and MySQL Database 
-
+```
 DataBase Name : supermarketrest
 Apache Version : Tomcat v8.0 Server
+```
 
-APIs Developed for :
+## APIs Developed for  :
 
--getItems                -----GET
 
--getItems by ID          -----GET
+```
+1.getItems             -----GET
 
--addItems                ----POST
+2.getItems by ID       -----GET
 
--updateItems by ID       -----PUT
+3.addItems             -----POST
 
--DeleteItem by ID        ---DELETE
+4.updateItems          -----PUT
 
--bulk Update             -----PUT
+5.updateItemByID       -----PUT
 
+```
