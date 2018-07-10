@@ -20,3 +20,6 @@ Apache Version : Tomcat v8.0 Server
 5.updateItemByID       -----PUT
 
 ```
+## License
+
+This project is licensed under the Apache License 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
